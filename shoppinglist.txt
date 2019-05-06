@@ -14,3 +14,17 @@ galaxy
 //第一次wjl111git  
 
 yuanx 1 
+
+yuang 1
+<<<<<<< HEAD
+
+
+
+
+
+yuanx 2 
+=======
+ 
+ 
+ yuan git 2
+>>>>>>> origin/master
